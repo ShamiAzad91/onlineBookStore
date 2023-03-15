@@ -1,4 +1,5 @@
 # onlineBookStore
+##MERN STACK##
 It is having the core features of online E commerce site ,It is having the features of add to cart and payment gateway.
 ##npm install##
 ## make dotenv file ##
